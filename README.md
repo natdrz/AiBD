@@ -1,3 +1,2 @@
 # AiBD
-
-zadanie 2
+repozytorium do przesyłania zadan z AiBD
